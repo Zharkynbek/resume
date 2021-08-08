@@ -35,7 +35,7 @@ body {
 }
 
 .contacts-container {
-  margin-top: 60px;
+  margin-top: 50px;
   margin-left: 40px;
   margin-right: 40px;
 }
@@ -45,6 +45,7 @@ body {
   font-size: 22px;
   font-weight: 700;
   line-height: 24px;
+  margin-bottom: 20px;
 }
 .contacts-link {
   color: #c3c7ce;
