@@ -8,8 +8,8 @@ body {
   background-color: #f5f7fa;
   /* padding-top: 40px;
   padding-bottom: 40px; */
-  padding-left: 20px;
-  padding-right: 20px;
+  /* padding-left: 20px;
+  padding-right: 20px; */
   font-family: Montserrat;
 }
 
@@ -18,7 +18,7 @@ body {
   display: flex;
   max-width: 1200px;
   margin: 0 auto;
-  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  /* box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15); */
 }
 .sidebar {
   background-color: #1e2939;
