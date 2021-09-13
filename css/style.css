@@ -14,7 +14,6 @@ body {
 }
 
 .wrapper {
-  background-color: #fff;
   display: flex;
   max-width: 1200px;
   margin: 0 auto;
@@ -28,10 +27,15 @@ body {
 }
 
 .about-me-container {
-  padding-left: 80px;
-  padding-right: 80px;
+  display: block;
+  padding-left: 40px;
+  padding-right: 30px;
   padding-top: 26px;
   padding-bottom: 26px;
+  @media screen and (min-width: 768px) {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
 }
 
 .contacts-container {
@@ -108,7 +112,6 @@ body {
 .profession {
   font-size: 14px;
   font-weight: 700;
-  line-height: 0px;
   margin-bottom: 11px;
 }
 
